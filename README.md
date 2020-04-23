@@ -1,24 +1,3 @@
-# README
+Exemplo de API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Utilizando o Ruby on Rails esse API utiliza checkagem de tentativa de login em excesso com limite de tentativas por minuto para não poder, realizar tentativa de brute force.
